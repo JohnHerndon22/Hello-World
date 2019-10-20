@@ -1,0 +1,10 @@
+Backup/ - BU - backup files are stored in this directory.  When making updates to a file, a process will back the file up prior to updating.
+NFL Plot Test.csv - Used a input to the histogram program for the attempt at scatter plotting - trymaplotv2.py
+NFL Results Master - 171819.csv - the overall master results file for all seasons - used for scenario analysis
+NFL Schedule 2019.csv - all regular season games for 2019
+NFL_Gamedays_2019.csv - Gameday to week number matching for 2019 - used for translation for the ELO file
+NFL_Teams.csv - teams and index translation - shortname to index
+archive/ - old files are kept here
+data/nfl-elo - storage of the 538 downloaded elo files
+nfl_elo_lastest.csv - espn 2019 (or current season) - elo predictions
+will add others later..
